@@ -13,6 +13,7 @@ import ctypes
 import socket
 import os
 import runpy
+#asdasdasdasdasd
 
 # Construir la ruta absoluta al script de dependencias
 dependencies_script = os.path.join(os.path.dirname(__file__), "dependencias", "install_dependencies.py")
